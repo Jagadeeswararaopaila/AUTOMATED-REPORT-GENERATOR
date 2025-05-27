@@ -80,3 +80,5 @@ This project fulfills the requirements of the given task to develop a script tha
 
 ### OUTPUT -
 
+[score_report_custom.pdf](https://github.com/user-attachments/files/20464327/score_report_custom.pdf)
+
