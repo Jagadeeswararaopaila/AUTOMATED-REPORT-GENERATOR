@@ -4,7 +4,7 @@ COMPANY: CODTECH IT SOLUTIONS
 
 NAME: PAILA JAGADEESWARARAO
 
-INTERN ID:CT08DF180
+INTERN ID: CT08DF180
 
 DOMAIN: PYTHON PROGRAMMING
 
@@ -60,9 +60,7 @@ Page footer with page numbers
 
 ## Requirements
 To run this script, make sure the following libraries are installed:
-
-# bash
-
+bash
 pip install pandas fpdf
 
 ## Real-World Use Cases
